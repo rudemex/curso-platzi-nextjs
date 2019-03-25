@@ -1,7 +1,7 @@
 # curso-platzi-nextjs
 Curso de nextjs por platzi
 
-####Install dependencies
+### Install dependencies
 ```sh
 npm install
 ```
