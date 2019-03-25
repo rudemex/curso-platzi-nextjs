@@ -11,7 +11,8 @@
   "keywords": [
     "nextjs",
     "react",
-    "webpack"
+    "webpack",
+    "axios"
   ],
   "author": "@mexDelgado",
   "license": "MIT",
