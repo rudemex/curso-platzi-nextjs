@@ -1,4 +1,4 @@
-# curso-platzi-nextjs
+# Next.js
 Curso de nextjs por platzi
 
 ### Install dependencies
