@@ -6,6 +6,7 @@ export default class extends React.Component{
             <div>
                 <h1>Hola Mundo!</h1>
                 <p>Bienvenido al curso de Next.js</p>
+                <p>Este es un test</p>
             </div>
         )
     }
