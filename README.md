@@ -5,8 +5,12 @@ Curso de nextjs por platzi
 ```sh
 npm install
 ```
-#### Run localhost:3000
+#### Run development mode localhost:3000
 ```sh
 npm run dev
+```
+#### Run production mode localhost:3000
+```sh
+npm run build && npm start
 ```
  
