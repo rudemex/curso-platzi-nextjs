@@ -15,11 +15,11 @@
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/next/dist/pages/_error": [
+    "/channel": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/channel": [
+    "/podcast": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
