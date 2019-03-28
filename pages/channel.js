@@ -2,7 +2,8 @@ import Link from 'next/link'
 import Layout from "../components/Layout";
 import ChannelGrid from "../components/ChannelGrid";
 import PodcastList from "../components/PodcastList";
-import Error from 'next/error'
+// import Error from 'next/error'
+import Error from './_error'
 
 export default class extends React.Component {
 
