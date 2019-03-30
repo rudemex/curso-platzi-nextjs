@@ -1,16 +1,15 @@
-# Next.js
-Curso de nextjs por platzi
+# Next.js -  App de podcast de Platzi
+Curso de nextjs de Platzi para realizar una app de podcast con la API de AudioBoom.
 
-### Install dependencies
-```sh
-npm install
-```
-#### Run development mode localhost:3000
-```sh
-npm run dev
-```
-#### Run production mode localhost:3000
-```sh
-npm run build && npm start
-```
- 
+![Captura de la app](./.readme-static/screenshot-app.png)
+
+## ¿Cómo funciona?
+Requiere Node.JS 10+
+
+* `npm install` para instalar las dependencias.
+* `npm run dev` para el entorno de desarrollo.
+* `npm run build && npm start` para el entorno de produccion.
+
+## Licencia
+
+MIT
