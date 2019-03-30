@@ -13,3 +13,6 @@ Requiere Node.JS 10+
 ## Licencia
 
 MIT
+
+## Follow me
+Instagram: [@rudemex](https://www.instagram.com/rudemex "¡Follow me in Instagram!")
