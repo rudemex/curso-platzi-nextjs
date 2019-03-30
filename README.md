@@ -15,4 +15,4 @@ Requiere Node.JS 10+
 MIT
 
 ## Follow me
-Instagram: [@rudemex](https://www.instagram.com/rudemex "¡Follow me in Instagram!")
+Instagram: [@rudemex](https://www.instagram.com/rudemex "¡Follow me in Instagram!"){:target="_blank"}
