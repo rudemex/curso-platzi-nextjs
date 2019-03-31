@@ -8,6 +8,10 @@
     "build": "next build",
     "start": "NODE_ENV=production node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudemex/curso-platzi-nextjs.git"
+  },
   "keywords": [
     "nextjs",
     "react",
@@ -16,10 +20,12 @@
   ],
   "author": "@mexDelgado",
   "license": "MIT",
+  "homepage": "https://github.com/rudemex/curso-platzi-nextjs#readme",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "next": "^8.0.3",
     "next-routes": "^1.4.2",
+    "now": "^14.2.4",
     "nprogress": "^0.2.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
