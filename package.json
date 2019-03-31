@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
+    "now-build": "next build",
     "start": "NODE_ENV=production node server.js"
   },
   "repository": {
@@ -22,6 +23,7 @@
   "license": "MIT",
   "homepage": "https://github.com/rudemex/curso-platzi-nextjs#readme",
   "dependencies": {
+    "@now/next": "^0.1.2",
     "isomorphic-fetch": "^2.2.1",
     "next": "^8.0.3",
     "next-routes": "^1.4.2",

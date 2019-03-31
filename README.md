@@ -1,6 +1,8 @@
 # Next.js -  App de podcast de Platzi
 Curso de nextjs de Platzi para realizar una app de podcast con la API de AudioBoom.
 
+[Online Demo](https://curso-platzi-nextjs.mexdelgado.now.sh/)
+
 ![Captura de la app](./.readme-static/screenshot-app.png)
 
 ## ¿Cómo funciona?
